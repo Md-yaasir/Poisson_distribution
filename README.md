@@ -1,4 +1,9 @@
-# Fitting Poisson  distribution
+```c
+NAME : Mohammed Yaasir .Y
+REG-NO : 212224040196
+DATE : 
+```
+# EXP-2 : Fitting Poisson  distribution
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
